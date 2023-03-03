@@ -1,4 +1,4 @@
-package edu.neu.kaifengruan;
+package me.kaifengruan;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package edu.neu.kaifengruan.observer;
+package me.kaifengruan.observer;
 
 public class WeatherStation {
     public static void main(String[] args) {

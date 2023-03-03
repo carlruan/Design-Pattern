@@ -1,4 +1,4 @@
-package edu.neu.kaifengruan.strategy;
+package me.kaifengruan.strategy;
 
 public class Quack implements QuackBehavior{
     @Override

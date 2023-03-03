@@ -1,4 +1,4 @@
-package edu.neu.kaifengruan.observer;
+package me.kaifengruan.observer;
 
 import java.util.ArrayList;
 import java.util.List;

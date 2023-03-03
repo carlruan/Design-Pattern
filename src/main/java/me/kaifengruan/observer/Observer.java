@@ -1,4 +1,4 @@
-package edu.neu.kaifengruan.observer;
+package me.kaifengruan.observer;
 
 public interface Observer {
     public void update();

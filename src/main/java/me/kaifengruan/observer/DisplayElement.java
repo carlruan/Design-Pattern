@@ -1,4 +1,4 @@
-package edu.neu.kaifengruan.observer;
+package me.kaifengruan.observer;
 
 public interface DisplayElement {
     public void display();

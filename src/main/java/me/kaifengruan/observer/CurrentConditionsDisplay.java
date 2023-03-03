@@ -1,4 +1,4 @@
-package edu.neu.kaifengruan.observer;
+package me.kaifengruan.observer;
 
 public class CurrentConditionsDisplay implements Observer, DisplayElement{
     private float temperature;
